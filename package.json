@@ -1,0 +1,39 @@
+{
+  "name": "react-scroll-mobile",
+  "version": "0.0.6",
+  "description": "react移动端滚动组件,支持上拉加载、下拉刷新、返回顶部",
+  "main": "dist/bundle.js",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "keywords": [
+    "react-scroll",
+    "react-scroll-mobile",
+    "scroll"
+  ],
+  "author": "sanpiso",
+  "license": "ISC",
+  "dependencies": {
+    "classnames": "^2.2.6",
+    "react": "^16.2.0"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.2",
+    "babel-plugin-transform-runtime": "^6.23.0",
+    "babel-preset-env": "^1.6.1",
+    "babel-preset-react": "^6.24.1",
+    "babel-preset-stage-1": "6.5.0",
+    "css-loader": "^0.28.9",
+    "less": "^3.10.3",
+    "less-loader": "^5.0.0",
+    "style-loader": "^0.19.1",
+    "url-loader": "^1.1.1",
+    "webpack": "^3.10.0",
+    "webpack-node-externals": "^1.6.0"
+  }
+}
