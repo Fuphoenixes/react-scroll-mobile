@@ -1,7 +1,8 @@
 {
   "name": "react-scroll-mobile",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "react移动端滚动组件,支持上拉加载、下拉刷新、返回顶部",
+  "homepage": "https://github.com/Fuphoenixes/react-scroll-mobile",
   "main": "dist/bundle.js",
   "files": [
     "dist"
